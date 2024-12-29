@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/upendra2880" target="blank"><img src="https://img.shields.io/twitter/follow/upendra2880?logo=twitter&style=for-the-badge" alt="upendra2880" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I am currently working at a multinational corporation (MNC), contributing to diverse projects in a global work environment.
 
 - 🌱 I’m currently learning **React Native**
 
