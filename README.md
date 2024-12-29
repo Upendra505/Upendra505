@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **java , Html ,css**
+- 💬 Ask me about **java , Html ,css,js,mysql,c#,python**
 
 - 📫 How to reach me **gorojukittu@gmail.com**
 
