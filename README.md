@@ -1,257 +1,270 @@
 <div align="center">
 
-# 👋 Hi, I'm **Upendra Chary**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=UPENDRA%20CHARY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20.NET%20DEVELOPER&descAlignY=58&descSize=18" width="100%"/>
 
-### 🚀 Full Stack .NET Developer | C# | ASP.NET Core | Web API | SQL Server | React
+<br/>
 
-**Building scalable, secure and production-ready web applications.**
+<a href="https://github.com/Upendra505">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=Full+Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+Web+API;React+%7C+JavaScript+%7C+SQL+Server;Building+Production-Ready+Web+Applications;Turning+Business+Ideas+Into+Scalable+Software" />
+</a>
 
-<p>
-  <a href="mailto:gorojuupendrachary@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Upendra505">
-    <img src="https://img.shields.io/badge/GitHub-Upendra505-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=upendra505&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Upendra Chary GitHub Profile Views" />
+<a href="https://github.com/Upendra505">
+<img src="https://img.shields.io/github/followers/Upendra505?style=for-the-badge&logo=github&label=FOLLOWERS&color=1e3a8a"/>
+</a>
+<a href="https://github.com/Upendra505?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-06b6d4?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:gorojuupendrachary@gmail.com">
+<img src="https://img.shields.io/badge/Contact-Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=upendra505&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# `> whoami`
 
-I'm **Upendra Chary**, a **Full Stack .NET Developer** focused on designing and developing modern, scalable and production-ready web applications.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   UPENDRA CHARY                                              │
+│   Full Stack .NET Developer                                  │
+│                                                              │
+│   Building scalable, secure and production-ready             │
+│   web applications from frontend to deployment.              │
+│                                                              │
+│   Backend       → C# • ASP.NET Core • MVC • Web API          │
+│   Frontend      → React • JavaScript • HTML • CSS             │
+│   Database      → SQL Server • MySQL • MongoDB                │
+│   DevOps        → Git • GitHub • IIS • Windows Server        │
+│   Architecture  → REST APIs • Authentication • RBAC          │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-I work across the complete application lifecycle — from **frontend development and REST APIs to database design, authentication, deployment and production maintenance**.
+### `> current_status`
 
-### 🔭 Currently Working On
-
-* 🏥 Healthcare & Hospital Management Platforms
-* 🌐 Enterprise Web Applications
-* 📊 Admin Dashboards & Management Systems
-* 🔐 Authentication & Role-Based Access Systems
-* 📄 PDF, Certificate & QR Code Generation
-* 🚀 Production Deployment using IIS and Windows Server
-
-### 🌱 Currently Learning
-
-**React Native, modern React architecture, cloud technologies and advanced .NET development.**
-
-### 💬 Ask Me About
-
-**C# • ASP.NET Core • MVC • Web API • SQL Server • React • JavaScript • HTML • CSS • Bootstrap • Git • IIS**
-
-### ⚡ Fun Fact
-
-> I enjoy turning real-world business requirements into working software. 🚀
+```diff
++ Building real-world production applications
++ Developing healthcare & enterprise platforms
++ Designing REST APIs and database-driven systems
++ Working with IIS / Windows Server deployments
++ Exploring React Native & modern application architecture
+```
 
 ---
 
-# 🛠️ Technical Skills
+# ⚡ Tech Arsenal
+
+<div align="center">
 
 ### Backend
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" title=".NET" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title="ASP.NET Core" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
-**C# • ASP.NET Core • MVC • Web API • Entity Framework • REST APIs**
+<br/><br/>
 
 ### Frontend
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,typescript" />
 
-**React • JavaScript • HTML5 • CSS3 • Bootstrap • Responsive UI**
+<br/><br/>
 
 ### Database
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" title="SQL Server" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
-**SQL Server • MySQL • MongoDB • Stored Procedures • Database Design**
+<br/><br/>
 
-### Tools & Deployment
+### Development & Deployment
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" title="Visual Studio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" title="AWS" />
-</p>
-
-**Git • GitHub • Visual Studio • IIS • Windows Server • AWS • Cloudflare**
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 Healthcare Management Platforms
-
-Developing healthcare-focused web applications with features such as:
-
-* Patient management
-* Doctor management
-* Appointment scheduling
-* Consultation management
-* Hospital administration
-* Authentication & authorization
-* Reports and dashboards
-* PDF & certificate generation
-* QR code generation
-* Notification integrations
-
-**Technologies:**
-`ASP.NET Core` `C#` `SQL Server` `React` `REST API`
-
----
-
-## 🌐 Enterprise Web Applications
-
-Building production-ready applications with:
-
-* Role-based authentication
-* Admin dashboards
-* CRUD management
-* REST APIs
-* Database integration
-* File uploads
-* PDF generation
-* Reporting
-* Search & filtering
-* Responsive interfaces
-
----
-
-## 🎮 Personal Gaming Website
-
-A collection of browser-based games developed as a personal web project.
-
-🎮 **Play:**
-https://upendra505.github.io/Basic-Games/
-
-**Technologies:**
-`HTML` `CSS` `JavaScript`
-
----
-
-# 🧩 What I Build
-
-```text
-Frontend
-   ↓
-React / JavaScript / HTML / CSS
-   ↓
-REST API
-   ↓
-ASP.NET Core / C#
-   ↓
-Business Logic
-   ↓
-Entity Framework / SQL
-   ↓
-SQL Server / MySQL / MongoDB
-   ↓
-IIS / Windows Server / Cloud
-```
-
-I enjoy working across the complete development lifecycle:
-
-**Design → Development → API → Database → Testing → Deployment → Maintenance**
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=upendra505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendra505&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=upendra505&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,aws,cloudflare" />
 
 </div>
 
 ---
 
-# 🏆 Developer Focus
+# 🏗️ Engineering Stack
 
 ```text
-✔ Clean & Maintainable Code
-✔ RESTful API Development
-✔ Database Optimization
-✔ Responsive UI Development
-✔ Secure Authentication
-✔ Production Deployment
-✔ Performance Optimization
-✔ Real-World Business Solutions
+                         ┌─────────────────────┐
+                         │       CLIENT        │
+                         │ React / Web / Mobile│
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     REST API        │
+                         │   ASP.NET Core      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │   BUSINESS LOGIC    │
+                         │ C# / Services / EF  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      DATABASE       │
+                         │ SQL Server / MySQL  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │     PRODUCTION      │
+                         │ IIS / Windows / AWS │
+                         └─────────────────────┘
 ```
 
 ---
 
-# 📈 Current Goals
+# 🚀 Featured Work
 
-* 🚀 Build scalable .NET applications
-* ⚛️ Improve advanced React development
-* 📱 Explore React Native
-* ☁️ Expand cloud & DevOps knowledge
-* 🏗️ Improve software architecture skills
-* 🔐 Build secure production applications
-* 🌎 Contribute to meaningful open-source projects
+<div align="center">
+
+<a href="https://github.com/Upendra505">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Upendra505&repo=TDF&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🏥 Healthcare & Enterprise Platforms
+
+Building business-critical applications involving:
+
+`Doctor Management` • `Patient Management` • `Appointments` • `Consultations`
+
+`Admin Dashboards` • `Reports` • `Authentication` • `Role-Based Access`
+
+`QR Generation` • `PDF Generation` • `Certificate Generation` • `File Management`
+
+### 🎮 Personal Gaming Project
+
+**Basic Games**
+
+A browser-based gaming project developed using frontend technologies.
+
+🔗 https://upendra505.github.io/Basic-Games/
 
 ---
 
-# 🤝 Let's Connect
+# 🧠 What I Build
 
-I'm always interested in connecting with developers, companies and technology communities.
+<div align="center">
 
-<p align="center">
+| Area               | Focus                               |
+| ------------------ | ----------------------------------- |
+| 🧩 Backend         | ASP.NET Core, C#, REST APIs         |
+| 🎨 Frontend        | React, JavaScript, HTML, CSS        |
+| 🗄️ Database       | SQL Server, MySQL, MongoDB          |
+| 🔐 Security        | Authentication, Authorization, RBAC |
+| 📄 Documents       | PDF & Certificate Generation        |
+| 🔳 Automation      | QR Code Generation                  |
+| 🚀 Deployment      | IIS, Windows Server, AWS            |
+| 🔧 Version Control | Git & GitHub                        |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Upendra505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upendra505&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Upendra505&theme=tokyonight&hide_border=true&mode=weekly" width="70%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
+
+---
+
+# 📈 Development Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Upendra505&theme=tokyonight" width="95%" />
+
+</div>
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+.NET Architecture             ████████████████████  100%
+ASP.NET Core                  ████████████████████  100%
+REST API Development          ████████████████████  100%
+SQL Server                    ███████████████████░   95%
+React                         █████████████████░░░   85%
+Cloud & DevOps                ██████████████░░░░░░   70%
+React Native                  ███████████░░░░░░░░░   55%
+System Design                 ██████████░░░░░░░░░░   50%
+```
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Don't just write code. Build solutions that work in the real world."**
+
+I focus on writing maintainable code, designing practical solutions, solving real business problems and taking applications from **development → deployment → production**.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="mailto:gorojuupendrachary@gmail.com">
-<img src="https://img.shields.io/badge/Email-gorojuupendrachary%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Upendra505">
-<img src="https://img.shields.io/badge/GitHub-Upendra505-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Upendra505-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://twitter.com/upendra2880">
-<img src="https://img.shields.io/badge/Twitter-@upendra2880-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/X-@upendra2880-000000?style=for-the-badge&logo=x"/>
 </a>
 
 <a href="https://instagram.com/upendra_goroju">
-<img src="https://img.shields.io/badge/Instagram-@upendra_goroju-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-@upendra_goroju-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 Code. Build. Deploy. Improve. 🚀
+### `BUILD • SHIP • SCALE • REPEAT`
 
-**Upendra Chary — Full Stack .NET Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
