@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **java , Html ,css,js,mysql,c#,python**
 
-- 📫 How to reach me **gorojukittu@gmail.com**
+- 📫 How to reach me **gorojuupendrachary@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 - Personaly Developed Gaming Website:https://upendra505.github.io/Basic-Games/
